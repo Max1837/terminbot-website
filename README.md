@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TerminBot – Ihr smarter Telefonassistent</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 0;
+            background-color: #f5f5f7;
+            color: #1d1d1f;
+        }
+        header {
+            text-align: center;
+            padding: 50px 20px;
+            background-color: white;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+        }
+        header p {
+            font-size: 1.2rem;
+            color: #6e6e73;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #0071e3;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 25px;
+            font-size: 1.1rem;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #005bb5;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: white;
+            color: #6e6e73;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>TerminBot</h1>
+        <p>Ihr smarter KI-Telefonassistent für automatische Terminplanung</p>
+        <a class="cta-button" href="https://calendly.com/geislermax999" target="_blank">Jetzt Termin buchen</a>
+    </header>
+
+    <section>
+        <h2>Über uns</h2>
+        <p>TerminBot ist Ihr smarter KI-Telefonassistent, der Anrufe automatisch entgegennimmt, Kunden freundlich begrüßt und Termine direkt in Ihren Kalender einträgt – 24/7, zuverlässig und individuell anpassbar. So sparen Sie Zeit und steigern Ihre Kundenzufriedenheit.</p>
+    </section>
+
+    <section>
+        <h2>So funktioniert's</h2>
+        <p>Mit TerminBot gehen keine Anrufe mehr verloren. Unsere KI nimmt Gespräche in Echtzeit an, beantwortet Fragen Ihrer Kunden und bucht Termine sofort in Ihrem digitalen Kalender. Der Service ist einfach einzurichten, jederzeit erreichbar und vollständig anpassbar.</p>
+    </section>
+
+    <footer>
+        © 2025 TerminBot – Alle Rechte vorbehalten
+    </footer>
+
+</body>
+</html>
